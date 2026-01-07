@@ -1,18 +1,28 @@
-# ⚡ HaruCordGo
-**Author: Harumi**
+# HaruCordGo v1.00
 
-HaruCordGo is a professional-grade communication suite engineered for high-performance environment synchronization and identity integrity.
+High-performance, modded communications environment with native bypass protocols and integrated kernel logic.
 
-## 🚀 Key Features
-- **HaruCore Engine**: Native reasoning module for technical data processing and objective logic.
-- **Identity Integrity**: Advanced profile rotation and session verification via `/token`.
-- **Gated Access**: Protocol-locked interface requiring PWA installation for full system access.
-- **Triple-Pane Architecture**: Optimized desktop layout with responsive mobile adaptation.
+## Core Features
+- **Rate-Limit Bypass Engine**: Intelligent request queuing to circumvent API throttling and ensure message delivery.
+- **Turbo-Typing Focus Lock**: Forces hardware input focus for maximum typing velocity on mobile devices.
+- **Global Glass UI**: 100% transparency architecture optimized for high-fidelity custom backgrounds.
+- **CLI Kernel**: Integrated terminal for direct system interaction and script execution.
 
-## 📦 System Requirements
-To maintain session security and hardware profile stability, HaruCordGo must be installed as a native application.
+## Whitelist Status
+To unlock the "Whitelisted" badge and full engine priority:
+1. Set your Discord status to exactly: `#haru on top`
+2. The Harumi Engine will verify the signature via the heartbeat protocol every 2 seconds.
 
-### Installation Instructions:
-- **Desktop (Chrome/Edge/Safari)**: Click the "Install" icon in the address bar or the "Download App" button on the portal.
-- **iOS (Safari)**: Tap the "Share" icon and select "Add to Home Screen".
-- **Android**: Tap the "Install" button on the landing portal.
+## Installation & Setup
+For the intended experience and to enable the OAuth2 authentication layer, HaruCordGo must be installed as a native system app.
+- **Desktop Setup**: Click the "Desktop Install" module on the startup interface or use your browser's "Install App" feature.
+- **Mobile Setup**: Use the browser's "Add to Home Screen" function to link the binary to your device.
+*Note: OAuth2 authentication is exclusively active when running within the installed application environment.*
+
+## Project Chronicles
+- **Release: Jan 8 (v1.00)**: 
+    - Official v1.00 Production Build.
+    - Rate-Limit Bypass Engine implementation.
+    - Turbo-Typing Focus Lock deployment.
+    - Global Transparency UI architecture.
+    - Integrated CLI Kernel with Gemini 3 Pro integration.
